@@ -1,4 +1,4 @@
-- Hi, I’m Ali BEYAZ  aka @symbuzzer and this is my hobby projects Git  
+- Hi, I’m Ali BEYAZ  aka symbuzzer (@XDA) and this is my hobby projects Git  
 - My web site is https://avalibeyaz.com  
 - You can reach me from alipolatbeyaz[at]gmail.com
 
