@@ -1,4 +1,5 @@
 - Hi, I’m Ali BEYAZ  aka symbuzzer (@XDA) and this is my hobby projects Git  
+- Archived repos are no longer being developed. Only unarchived projects will be developed.  
 - My web site is https://avalibeyaz.com  
 - You can reach me from alipolatbeyaz[at]gmail.com
 
