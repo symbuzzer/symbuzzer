@@ -1,5 +1,6 @@
 - Hi, I’m Ali BEYAZ  aka symbuzzer (@XDA) and this is my hobby projects Git  
 - Archived repos are no longer being developed. Only unarchived projects will continue to be developed.  
+- Only forked repos have the "fork-" prefix. Modified forked repos do not have this prefix.
 - Patreon: https://avalibeyaz.com/patreon
 
 <!---
