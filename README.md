@@ -14,7 +14,10 @@
 - MIUI-Launcher-4-POCO-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/total.svg)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module) 
 - chopin-global-flasher : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/chopin-global-flasher/total.svg)](https://github.com/symbuzzer/chopin-global-flasher)
   
-## Contributed Projects:
+## Contributed Projects:  
+- [AdGuard Host Lists Registry](https://github.com/AdguardTeam/HostlistsRegistry) - providing DNS list  
+- [hagezi dns-blocklists](https://github.com/hagezi/dns-blocklists) - providing DNS list  
+- [hblock](https://github.com/hectorm/hblock) - providing DNS list  
 - [KernelSU](https://github.com/tiann/KernelSU) - Turkish translation
 - [BCR](https://github.com/chenxiaolong/BCR) - Turkish translation
 <!---
