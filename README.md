@@ -13,6 +13,7 @@
 - Chopin2Choping-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Chopin2Choping-Magisk-Module/total.svg)](https://github.com/symbuzzer/Chopin2Choping-Magisk-Module)  
 - MIUI-Launcher-4-POCO-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/total.svg)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module) 
 - chopin-global-flasher : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/chopin-global-flasher/total.svg)](https://github.com/symbuzzer/chopin-global-flasher)
+- systemless-hosts-KernelSU-module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/systemless-hosts-KernelSU-module/total.svg)](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)
   
 ## Contributed Projects:  
 - [AdGuard Host Lists Registry](https://github.com/AdguardTeam/HostlistsRegistry) - providing DNS list  
