@@ -9,7 +9,7 @@
 - oled2lcd : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/oled2lcd/total.svg)](https://github.com/symbuzzer/oled2lcd)
 - livebootmagisk : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/livebootmagisk/total.svg)](https://github.com/symbuzzer/livebootmagisk)
 - MIUI-Debloater-Magisk-Modules : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/MIUI-Debloater-Magisk-Modules/total.svg)](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules)
-- Volte-Wifi-Calling-Enabler-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module/total.svg)](https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module)  
+- Volte-Wifi-Calling-Enabler : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Volte-Wifi-Calling-Enabler/total.svg)](https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module)  
 - Chopin2Choping-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Chopin2Choping-Magisk-Module/total.svg)](https://github.com/symbuzzer/Chopin2Choping-Magisk-Module)  
 - MIUI-Launcher-4-POCO-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/total.svg)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module) 
 - chopin-global-flasher : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/chopin-global-flasher/total.svg)](https://github.com/symbuzzer/chopin-global-flasher)
