@@ -14,6 +14,7 @@
 - Chopin2Choping-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Chopin2Choping-Magisk-Module/total.svg)](https://github.com/symbuzzer/Chopin2Choping-Magisk-Module)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/Chopin2Choping-Magisk-Module?color=gr)](https://github.com/symbuzzer/Chopin2Choping-Magisk-Module/stargazers)  
 - MIUI-Launcher-4-POCO-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/total.svg)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module?color=gr)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/stargazers)  
 - oled2lcd : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/oled2lcd/total.svg)](https://github.com/symbuzzer/oled2lcd)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/oled2lcd?color=gr)](https://github.com/symbuzzer/oled2lcd/stargazers)
+- adaway-kernelsu-helper : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/adaway-kernelsu-helper/total.svg)](https://github.com/symbuzzer/adaway-kernelsu-helper)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/adaway-kernelsu-helper?color=gr)](https://github.com/symbuzzer/adaway-kernelsu-helper/stargazers)
   
 ## Contributed Projects:  
 - [AdGuard Host Lists Registry](https://github.com/AdguardTeam/HostlistsRegistry) - providing DNS list  
