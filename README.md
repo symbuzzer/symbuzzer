@@ -21,7 +21,8 @@
 - [hblock](https://github.com/hectorm/hblock) - providing DNS list  
 - [KernelSU](https://github.com/tiann/KernelSU) - Turkish translation
 - [MRepo](https://github.com/ya0211/MRepo) - Turkish translation
-- [BCR](https://github.com/chenxiaolong/BCR) - Turkish translation  
+- [BCR](https://github.com/chenxiaolong/BCR) - Turkish translation
+- [OSS Weather](https://github.com/Akylas/oss-weather) - Turkish translation
 <!---
 symbuzzer/symbuzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
