@@ -20,6 +20,7 @@
 - [hagezi dns-blocklists](https://github.com/hagezi/dns-blocklists) - providing DNS list  
 - [hblock](https://github.com/hectorm/hblock) - providing DNS list  
 - [KernelSU](https://github.com/tiann/KernelSU) - Turkish translation
+- [APatch](https://github.com/bmax121/APatch) - Turkish translation
 - [MRepo](https://github.com/ya0211/MRepo) - Turkish translation
 - [BCR](https://github.com/chenxiaolong/BCR) - Turkish translation
 - [OSS Weather](https://github.com/Akylas/oss-weather) - Turkish translation
