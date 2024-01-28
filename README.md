@@ -14,6 +14,12 @@
 - MIUI-Launcher-4-POCO-Magisk-Module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/total.svg)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module?color=gr)](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module/stargazers)  
 - oled2lcd : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/oled2lcd/total.svg)](https://github.com/symbuzzer/oled2lcd)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/oled2lcd?color=gr)](https://github.com/symbuzzer/oled2lcd/stargazers)
 - adaway-kernelsu-helper : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/adaway-kernelsu-helper/total.svg)](https://github.com/symbuzzer/adaway-kernelsu-helper)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/adaway-kernelsu-helper?color=gr)](https://github.com/symbuzzer/adaway-kernelsu-helper/stargazers)
+- [kernel OTA-survival addon.d script](https://github.com/symbuzzer/kernel-ota-survival-addon.d-script)
+- [bakimzi](https://github.com/symbuzzer/bakimzi)
+- [MMT Extended Next](https://github.com/symbuzzer/MMT-Extended-Next)
+- [Apollo Fastboot Fllasher](https://github.com/symbuzzer/apollo-fastboot-flasher)
+- [model-specific IMEI creator](https://github.com/symbuzzer/vbs-model-specific-imei)
+- [Revert Windows 11 update progress](https://github.com/symbuzzer/Revert-Win11-Update-Progress)
   
 ## Contributed Projects  
 - [AdGuard Host Lists Registry](https://github.com/AdguardTeam/HostlistsRegistry)
