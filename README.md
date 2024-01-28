@@ -17,7 +17,7 @@
 - [kernel OTA-survival addon.d script](https://github.com/symbuzzer/kernel-ota-survival-addon.d-script)
 - [bakimzi](https://github.com/symbuzzer/bakimzi)
 - [MMT Extended Next](https://github.com/symbuzzer/MMT-Extended-Next)
-- [Apollo Fastboot Fllasher](https://github.com/symbuzzer/apollo-fastboot-flasher)
+- [Apollo Fastboot Flasher](https://github.com/symbuzzer/apollo-fastboot-flasher)
 - [model-specific IMEI creator](https://github.com/symbuzzer/vbs-model-specific-imei)
 - [Revert Windows 11 update progress](https://github.com/symbuzzer/Revert-Win11-Update-Progress)
   
