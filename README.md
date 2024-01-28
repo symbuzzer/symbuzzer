@@ -5,7 +5,7 @@
 - Use of anything contained herein is at your own risk.
 - Patreon: https://avalibeyaz.com/patreon
   
-## Favorite Projects  
+## Maintained Projects  
 - Turkish-Ad-Hosts : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Turkish-Ad-Hosts/total.svg)](https://github.com/symbuzzer/Turkish-Ad-Hosts)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/Turkish-Ad-Hosts?color=gr)](https://github.com/symbuzzer/Turkish-Ad-Hosts/stargazers)  
 - systemless-hosts-KernelSU-module : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/systemless-hosts-KernelSU-module/total.svg)](https://github.com/symbuzzer/systemless-hosts-KernelSU-module)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/systemless-hosts-KernelSU-module?color=gr)](https://github.com/symbuzzer/systemless-hosts-KernelSU-module/stargazers)  
 - Volte-Wifi-Calling-Enabler : [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Volte-Wifi-Calling-Enabler/total.svg)](https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler-Magisk-Module)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/Volte-Wifi-Calling-Enabler?color=gr)](https://github.com/symbuzzer/Volte-Wifi-Calling-Enabler/stargazers)  
