@@ -29,6 +29,7 @@
 - [APatch](https://github.com/bmax121/APatch)
 - [MRepo](https://github.com/ya0211/MRepo)
 - [BCR](https://github.com/chenxiaolong/BCR)
+- [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 - [OSS Weather](https://github.com/Akylas/oss-weather)
 <!---
 symbuzzer/symbuzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
