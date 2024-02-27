@@ -32,6 +32,7 @@
 - [DroidFS](https://github.com/hardcore-sushi/DroidFS)
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [OSS Weather](https://github.com/Akylas/oss-weather)
+- [OSS DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner)
 <!---
 symbuzzer/symbuzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
