@@ -13,6 +13,7 @@
 - [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/oled2lcd/total.svg)](https://github.com/symbuzzer/oled2lcd/releases)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/oled2lcd?color=gr)](https://github.com/symbuzzer/oled2lcd/stargazers) - [oled2lcd](https://github.com/symbuzzer/oled2lcd)  
 - [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/adaway-kernelsu-helper/total.svg)](https://github.com/symbuzzer/adaway-kernelsu-helper/releases)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/adaway-kernelsu-helper?color=gr)](https://github.com/symbuzzer/adaway-kernelsu-helper/stargazers) - [adaway-kernelsu-helper](https://github.com/symbuzzer/adaway-kernelsu-helper)
 - [es-theme-knulli](https://github.com/symbuzzer/es-theme-knulli)
+- [etk_tool](https://github.com/symbuzzer/etk_tool)
 - [Turkish Spam Numbers](https://github.com/symbuzzer/Turkish-Spam-Numbers)
 - [kernel OTA-survival addon.d script](https://github.com/symbuzzer/kernel-ota-survival-addon.d-script)
 - [bakimzi](https://github.com/symbuzzer/bakimzi)
