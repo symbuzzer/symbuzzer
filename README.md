@@ -15,6 +15,7 @@
 - [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/es-theme-knulli/total.svg)](https://github.com/symbuzzer/es-theme-knulli/releases) - [es-theme-knulli](https://github.com/symbuzzer/es-theme-knulli)
 - [anbernic-h700-fw-comparing](https://github.com/symbuzzer/anbernic-h700-fw-comparing)
 - [etk_tool](https://github.com/symbuzzer/etk_tool)
+- [knulli_tools](https://github.com/symbuzzer/knulli_tools)
 - [Turkish Spam Numbers](https://github.com/symbuzzer/Turkish-Spam-Numbers)
 - [kernel OTA-survival addon.d script](https://github.com/symbuzzer/kernel-ota-survival-addon.d-script)
 - [bakimzi](https://github.com/symbuzzer/bakimzi)
