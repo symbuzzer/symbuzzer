@@ -17,6 +17,7 @@
 - [etk_tool](https://github.com/symbuzzer/etk_tool)
 - [knulli_tools](https://github.com/symbuzzer/knulli_tools)
 - [Turkish Spam Numbers](https://github.com/symbuzzer/Turkish-Spam-Numbers)
+- [wsodwarrior](https://github.com/ngagesdk/wsodwarrior)
 - [kernel OTA-survival addon.d script](https://github.com/symbuzzer/kernel-ota-survival-addon.d-script)
 - [bakimzi](https://github.com/symbuzzer/bakimzi)
 - [MMT Extended Next](https://github.com/symbuzzer/MMT-Extended-Next)
