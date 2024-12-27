@@ -41,6 +41,9 @@
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [OSS Weather](https://github.com/Akylas/oss-weather)
 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
+
+## Stats
+![symbuzzer's GitHub stats](https://github-readme-stats.vercel.app/api?username=symbuzzer&show_icons=true&theme=dark)
 <!---
 symbuzzer/symbuzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
