@@ -32,6 +32,8 @@
 - [hagezi dns-blocklists](https://github.com/hagezi/dns-blocklists)
 - [hblock](https://github.com/hectorm/hblock)
 - [knulli-cfw](https://github.com/knulli-cfw/distribution)
+- [stepsy](https://github.com/nvllz/stepsy)
+- [Zood Location](https://github.com/zood/george)
 - [muOS](https://github.com/MustardOS/internal)
 - [KernelSU](https://github.com/tiann/KernelSU)
 - [APatch](https://github.com/bmax121/APatch)
