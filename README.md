@@ -27,7 +27,7 @@
 - [MIUI-Debloater-Magisk-Modules](https://github.com/symbuzzer/MIUI-Debloater-Magisk-Modules)
 - [MIUI-Launcher-4-POCO-Magisk-Module](https://github.com/symbuzzer/MIUI-Launcher-4-POCO-Magisk-Module)
   
-## Contributed Projects  
+## Contributed Projects (mostly translated)
 - [AdGuard Host Lists Registry](https://github.com/AdguardTeam/HostlistsRegistry)
 - [hagezi dns-blocklists](https://github.com/hagezi/dns-blocklists)
 - [hblock](https://github.com/hectorm/hblock)
@@ -43,6 +43,14 @@
 - [Orion Viewer](https://github.com/max-kammerer/orion-viewer)
 - [OSS Weather](https://github.com/Akylas/oss-weather)
 - [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner)
+- [Squirrel](https://github.com/JigokuMaster/Squirrel)
+- [ScreenGrabber2](https://github.com/JigokuMaster/screengrabber2)
+- [Wunderland](https://github.com/WunderWungiel/Wunderland-Client)
+- [MIDPlay](https://github.com/phd051199/MIDPlay)
+- [MPGram](https://github.com/shinovon/mpgram-client)
+- [Zood Location](https://github.com/zood/george)
+- [Stepsy](https://github.com/nvllz/stepsy)
+- [ADNS](https://github.com/eyalm2000/adns)
 
 <!---
 symbuzzer/symbuzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
