@@ -14,6 +14,7 @@
 - [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/adaway-kernelsu-helper/total.svg)](https://github.com/symbuzzer/adaway-kernelsu-helper/releases)[![shields.io Stars](https://img.shields.io/github/stars/symbuzzer/adaway-kernelsu-helper?color=gr)](https://github.com/symbuzzer/adaway-kernelsu-helper/stargazers) - [adaway-kernelsu-helper](https://github.com/symbuzzer/adaway-kernelsu-helper)
 - [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/Turkish-Spam-Numbers/total.svg)](https://github.com/symbuzzer/Turkish-Spam-Numbers/releases) - [Turkish Spam Numbers](https://github.com/symbuzzer/Turkish-Spam-Numbers)
 - [![Github All Releases](https://img.shields.io/github/downloads/symbuzzer/es-theme-knulli/total.svg)](https://github.com/symbuzzer/es-theme-knulli/releases) - [es-theme-knulli](https://github.com/symbuzzer/es-theme-knulli)
+- [Shizuku-fork](https://github.com/symbuzzer/fork-Shizuku)
 - [anbernic-h700-fw-comparing](https://github.com/symbuzzer/anbernic-h700-fw-comparing)
 - [etk_tool](https://github.com/symbuzzer/etk_tool)
 - [knulli_tools](https://github.com/symbuzzer/knulli_tools)
