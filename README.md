@@ -51,7 +51,7 @@
 - [MPGram](https://github.com/shinovon/mpgram-client)
 - [Zood Location](https://github.com/zood/george)
 - [Stepsy](https://github.com/nvllz/stepsy)
-- [ADNS](https://github.com/eyalm2000/adns)
+- [ShizuCallRecorder](https://github.com/kitsumed/ShizuCallRecorder)
 
 <!---
 symbuzzer/symbuzzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
