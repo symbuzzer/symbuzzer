@@ -3,7 +3,7 @@
 - Archived repos are no longer being developed. Only unarchived projects will continue to be developed.  
 - Only forked repos have the "fork-" prefix. Modified forked repos do not have this prefix.
 - Use of anything contained herein is at your own risk.
-- For Closed-Sorce Symbian Projects: [avalibeyaz.com/symbian](https://avalibeyaz.com/symbian)
+- For Closed-Source Symbian Projects: [avalibeyaz.com/symbian](https://avalibeyaz.com/symbian)
 - [Patreon](https://avalibeyaz.com/patreon)
   
 ## Maintained Open-Source Projects  
